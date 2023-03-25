@@ -1,2 +1,2 @@
 # rainbow-casgol
-Una funcion nativa simple que te permitira no perder las gafas y sombreros al recibir golpes, tambien se agrega la funcion de no colocarse cascos al subirse a motocicletas
+A simple native function that allows you not to lose glasses and hats when getting hit, also the function of not wearing helmets when getting on motorcycles is added
